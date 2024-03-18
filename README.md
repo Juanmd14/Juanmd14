@@ -1,13 +1,7 @@
-### Hi there 👋
-
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
-</div>
 
 <br/>
 
-- 🌱 Hola Juan Garcia, Soy de Argentina, Bienvenidos a mi github.
+- 🌱 Hola soy Juan Garcia, Soy de Argentina, Bienvenidos a mi github.
 - ⚡ Me especializo en : HTML, CSS, JavaScript, SQL.
 - 😄 y se un poco sobre ReactJS, React Native, NodeJS, Vue.js.
 - 🔥 Siempre hay nuevas lecciones por descubrir.
