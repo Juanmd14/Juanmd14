@@ -19,13 +19,13 @@
 <td width="50%">
 <h3 align="center">Marvel APP</h3>
 <div align="center">
-<a href="https://github.com/Juanmd14/Marvel-Api" target="_blank"><img src="https://imgur.com/a/CHETHf9.jpg" width="400" alt="Marvel api"></a>
+<a href="https://github.com/Juanmd14/Marvel-Api" target="_blank"><img src="https://github.com/Dineshkumar2001/Marvel-Flutter-Application/raw/master/screenshots/Screenshot_20210607-165128.jpg" width="400" height="300" alt="Marvel api"></a>
 <p>
 <a href="https://github.com/Juanmd14/Marvel-Api" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://juanmd14.github.io/Marvel-Api/" target="_blank">
-<img src="https://img.shields.io/badge/-Marvel-Api-green?style=for-the-badge&color=fbfc40">
+    <img src="https://img.shields.io/badge/-Api-black?style=for-the-badge&color=ffffff">
 </a>
 </p>
 <p>Proyecto en el cual<strong>conectas con el servidor</strong> - Permitiendo acceder y utilizar la información proporcionada por Marvel. .</p>
@@ -36,8 +36,9 @@
 <td width="50%">
                <br>
 <h3 align="center">Dragon-Blame</h3>
-<div align="center">                                       
-<a href="https://github.com/Juanmd14/Dragon-Blame" target="_blank"><img src="https://imgur.com/4T7FGGS.jpg" width="400" alt="Dragon blame"></a>
+<div align="center">                
+    <br>
+<a href="https://github.com/Juanmd14/Dragon-Blame" target="_blank"><img src="https://i.imgur.com/4T7FGGS.jpg" width="400" alt="Dragon blame"></a>
 <br>
 <p>
 <a href="https://github.com/Juanmd14/Dragon-Blame" target="_blank">
