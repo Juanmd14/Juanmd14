@@ -9,7 +9,7 @@
 
 - 🌱 Hola Juan Garcia, Soy de Argentina, Bienvenidos a mi github.
 - ⚡ Me especializo en : HTML, CSS, JavaScript, SQL.
-- 😄 y se un poco sobre ReactJS, React Nativa, NodeJS, Vue.js.
+- 😄 y se un poco sobre ReactJS, React Native, NodeJS, Vue.js.
 - 🔥 Siempre hay nuevas lecciones por descubrir.
 
 <br/>
