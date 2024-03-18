@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/-Api-black?style=for-the-badge&color=ffffff">
 </a>
 </p>
-<p>Proyecto en el cual<strong>conectas con el servidor</strong> - Permitiendo acceder y utilizar la información proporcionada por Marvel. .</p>
+<p>Proyecto en el cual<strong> conectas con el servidor</strong> - Permitiendo acceder y utilizar la información proporcionada por Marvel. .</p>
 </div>
                                                                                       
 </td>
