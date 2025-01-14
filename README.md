@@ -32,7 +32,7 @@
 <div align="center">
 <a href="https://github.com/rodribessone/LeFiu" target="_blank"><img src="https://www.infobae.com/resizer/v2/GHAHUE6RHVHKJIHC2HDO3LNOLI.png?auth=ca1c3b872d107e916fa21d4cc4a5645de1a165be04fe145940a129ee3738665a&smart=true&width=1200&height=900&quality=85" width="400" height="300" alt="Lefiu Burgers"></a>
 <p>
-<a href="https://github.com/rodribessone/LeFiu" target="_blank">
+<a href="http://lefiuburgers.com/" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/rodribessone/LeFiu" target="_blank">
