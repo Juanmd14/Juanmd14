@@ -30,7 +30,7 @@
 <td width="50%">
 <h3 align="center">Lefiu Burgers</h3>
 <div align="center">
-<a href="https://github.com/rodribessone/LeFiu" target="_blank"><img src="https://www.infobae.com/resizer/v2/GHAHUE6RHVHKJIHC2HDO3LNOLI.png?auth=ca1c3b872d107e916fa21d4cc4a5645de1a165be04fe145940a129ee3738665a&smart=true&width=1200&height=900&quality=85" width="400" height="300" alt="Marvel api"></a>
+<a href="https://github.com/rodribessone/LeFiu" target="_blank"><img src="https://www.infobae.com/resizer/v2/GHAHUE6RHVHKJIHC2HDO3LNOLI.png?auth=ca1c3b872d107e916fa21d4cc4a5645de1a165be04fe145940a129ee3738665a&smart=true&width=1200&height=900&quality=85" width="400" height="300" alt="Lefiu Burgers"></a>
 <p>
 <a href="https://github.com/Juanmd14/Marvel-Api" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -39,7 +39,8 @@
     <img src="https://img.shields.io/badge/-Api-black?style=for-the-badge&color=ffffff">
 </a>
 </p>
-<p>Proyecto en el cual<strong> conectas con el servidor</strong> - Permitiendo acceder y utilizar la información proporcionada por Marvel. .</p>
+<p>Proyecto en el cual <strong>creamos una página web</strong> para un pequeño negocio de hamburguesas, utilizando React y Tailwind en el front-end, y MongoDB y Express en el back-end.</p>
+
 </div>
                                                                                       
 </td>
