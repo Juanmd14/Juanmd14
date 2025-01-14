@@ -6,7 +6,7 @@
 <br/>
 
 - 🌱 Hola soy Juan Garcia, Soy de Argentina, Bienvenidos a mi Github.
-- ⚡ Me especializo en : React y Tailwind, actualemnte estoy enfocado en Next.js.
+- ⚡ Me especializo en : React y Tailwind, actualmente estoy enfocado en Next.js.
 - 🔥 Siempre hay nuevas lecciones por descubrir.
 
 <br/>
