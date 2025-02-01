@@ -39,8 +39,8 @@
     <img src="https://img.shields.io/badge/-Api-black?style=for-the-badge&color=ffffff">
 </a>
 </p>
-Proyecto de hamburguesería 🍔
 Desarrollo de una página web para un pequeño negocio de hamburguesas.
+🍔
 
 Front-end: React y Tailwind CSS.
 Back-end: Node.js, Express y MongoDB.
