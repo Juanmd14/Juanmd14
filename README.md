@@ -39,7 +39,11 @@
     <img src="https://img.shields.io/badge/-Api-black?style=for-the-badge&color=ffffff">
 </a>
 </p>
-<p>Proyecto en el cual <strong>creamos una página web</strong> para un pequeño negocio de hamburguesas, utilizando React y Tailwind en el front-end, y MongoDB y Express en el back-end.</p>
+Proyecto de hamburguesería 🍔
+Desarrollo de una página web para un pequeño negocio de hamburguesas.
+
+Front-end: React y Tailwind CSS.
+Back-end: Node.js, Express y MongoDB.
 
 </div>
                                                                                       
