@@ -5,7 +5,7 @@
 
 <br/>
 
-- 🌱 Hola soy Juan Garcia, Soy de Argentina, Bienvenidos a mi Github.
+- 🌱 Hola soy Juan Garcia, Bienvenidos a mi Github.
 - ⚡ Enfocado en ser desarollador full-stack
 
 <br/>
