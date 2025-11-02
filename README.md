@@ -58,5 +58,5 @@
 ---
 
 <div align="center">
-  <i>💡 "El código es poesía" - Cada proyecto es una oportunidad para crear algo increíble</i>
+  <i>Cada proyecto es una oportunidad para crear algo increíble</i>
 </div>
