@@ -44,8 +44,8 @@
 
 <div align="center">
   
-  <!-- Agrega aquí tus links de LinkedIn, email, portfolio, etc. -->
-  <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](tu-linkedin) -->
+
+  <!-- [![LinkedIn](https://www.linkedin.com/in/juangarcia14)](tu-linkedin) -->
   
 </div>
 
