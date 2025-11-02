@@ -1,13 +1,12 @@
 <div align="center">
-  <img width="150" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" alt="Developer Animation"/>
+  <img width="150" src="https://cdn.dribbble.com/gdribbble/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" alt="Developer Animation"/>
 </div>
 
 <h1 align="center">👋 Hola, soy Juan García</h1>
 <h3 align="center">Desarrollador Full Stack | Apasionado por crear soluciones web completas</h3>
 
-<br/>
-
 ## 🚀 Sobre mí
+<br/>
 
 - 💻 Desarrollador Full Stack enfocado en aplicaciones web modernas
 - 🌱 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades
