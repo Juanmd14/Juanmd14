@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">👋 Hola, soy Juan García</h1>
-<h3 align="center">Desarrollador Full Stack | Convirtiendo el café en codigo</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 ## 🚀 Sobre mí
 
