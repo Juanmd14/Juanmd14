@@ -47,7 +47,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <i>Cada proyecto es una oportunidad para crear algo increíble</i>
-</div>
