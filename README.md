@@ -20,7 +20,7 @@
 
 - **[RollingMusic 🎶](https://rolling-music.vercel.app/)** – App de streaming musical con login seguro, favoritos, playlists y API de Deezer
 - **[LeFiuBurgers 🍔](https://le-fiu.vercel.app/)** – Gestión de pedidos en tiempo real con menú dinámico y panel admin
-- 
+
 ## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
