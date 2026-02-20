@@ -2,15 +2,26 @@
   <img width="150" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" alt="Developer Animation"/>
 </div>
 
-<h1 align="center">👋 Hola, soy Juan García</h1>
-<h3 align="center">Desarrollador Frontend · Full Stack</h3>
+<h1 align="center">👋 ¡Hola, soy Juan García!</h1>
 
-## 🚀 Sobre mí
+<h3 align="center">
+💻 Frontend Developer | React & TypeScript | Full Stack Enthusiast
+</h3>
 
-- 💻 Desarrollador Frontend especializado en React y TypeScript, con conocimientos Full Stack
-- 🎵 Construí una app de streaming musical con autenticación JWT, Google OAuth y consumo de la API de Deezer
-- 🍔 Desarrollé una app full-stack para gestión de pedidos en tiempo real con panel de administración
-- 🌱 Actualmente aprendiendo Next.js y profundizando en arquitectura de APIs REST
+<p align="center">
+🎵 Construí <strong>RollingMusic</strong>, una app de streaming musical con JWT, Google OAuth y la API de Deezer<br/>
+🍔 Desarrollé <strong>LeFiuBurgers</strong>, un sistema de pedidos en tiempo real con panel de administración<br/>
+🌱 Actualmente explorando <strong>Next.js</strong> y profundizando en <strong>APIs REST</strong><br/>
+✨ Me gusta crear interfaces bonitas que funcionan bien y escribir código que cuente historias.<br/>
+🚀 Siempre aprendiendo, siempre construyendo.
+</p>
+
+---
+
+## 🔭 Proyectos destacados
+
+- **[RollingMusic 🎶](#)** – App de streaming musical con login seguro, favoritos, playlists y API de Deezer
+- **[LeFiuBurgers 🍔](#)** – Gestión de pedidos en tiempo real con menú dinámico y panel admin
 
 ## 🛠️ Tecnologías y Herramientas
 
