@@ -12,8 +12,6 @@
 🎵 Construí <strong>RollingMusic</strong>, una app de streaming musical con JWT, Google OAuth y la API de Deezer<br/>
 🍔 Desarrollé <strong>LeFiuBurgers</strong>, un sistema de pedidos en tiempo real con panel de administración<br/>
 🌱 Actualmente explorando <strong>Next.js</strong> y profundizando en <strong>APIs REST</strong><br/>
-✨ Me gusta crear interfaces bonitas que funcionan bien y escribir código que cuente historias.<br/>
-🚀 Siempre aprendiendo, siempre construyendo.
 </p>
 
 ---
